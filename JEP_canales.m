@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (Argentina)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias (Neuquén)
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="Noticias",ARG: AMERICA TV
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10072
+#EXTINF:-1 tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="Noticias",ARG: CANAL 26
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/9992
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Noticias",Telefe (Argentina)[Opc.2]
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
+#EXTINF:-1 tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="Noticias",ARG: CRONICA
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10001
+#EXTINF:-1 tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="Noticias",ARG: DEPORTV FHD
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10002
+#EXTINF:-1 tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="Noticias",ARG: ENCUENTRO
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10008
+#EXTINF:-1 tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="Noticias",ARG: LN
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10031
+#EXTINF:-1 tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="Noticias",ARG: RURAL
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (Argentina)[Opc.2] Copy
+http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
+#EXTINF:-1 tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="Argentina",ARG: VOLVER
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/10068
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina",Ciudad Magazine [Not 24/7] (Buenos Aires)
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",Net TV (Buenos Aires)
@@ -455,26 +475,203 @@ http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
 http://190.61.101.11:7050/play/a05g/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa
 http://190.61.101.11:7050/play/a082/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Doramas / Asia",NEW KPOP
-https://jmp2.uk/stvp-ES1700005ME
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg" group-title="Doramas / Asia",K-Drama+ (Rakuten)
+#EXTINF:-1 tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="TyC Sports",ARG: TYC SPORTS
+http://neospaxy.top:8080/1611737131306655/6t99jp3affkj/9979
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="Deportes",FIFA+ (FR) (Internacional)
+https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="Deportes",FIFA+ (DE) (Internacional)
+https://d94238f5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRklGQVBsdXNHZXJtYW5fSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
+http://190.61.101.11:7050/play/a04v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD
+http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA
+http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX NIC GUA
+http://190.61.101.11:7050/play/a0af/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
+http://190.61.101.11:7050/play/a05o/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://viaxesports.com/wp-content/themes/ViaxExports/img/viaxesports.png" group-title="Deportes",Via X Esports
+http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",Azteca Deportes Network
+http://190.61.101.11:7050/play/a08l/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)[Opc.2]
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes",TOP Barça [EN]
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (Internacional)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports[Opc.2]
+http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium
+http://205.235.6.29:8000/play/a104/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrw1gJPG/racer-og-cover.png" group-title="Deportes",Racer International (EE.UU.) [EN]
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svf7FZ4C/RFTV.png" group-title="Deportes",Rally TV FAST (EE.UU.) [EN]
+https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EE.UU.) [EN]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes",World Billiards TV (EE.UU.) [EN]
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Deportes",Movistar Deportes[Opc.3]
+http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 5]
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 6]
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 7]
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 8]
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 11]
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX + PREMIER LIGA (MPV)
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sport Premiumm
+http://190.61.101.11:7050/play/a08u/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sports
+http://190.61.101.11:7050/play/a08t/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="FOX Sports",FOX Sports 2 (USA)[Opc. 2]
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium [Opc.2]
+http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Perú)
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD
+http://190.61.101.11:7050/play/a09k/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
+http://190.61.101.11:7050/play/a05c/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD
+http://190.61.101.11:7050/play/a05d/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD
+http://190.61.101.11:7050/play/a08p/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD
+http://190.61.101.11:7050/play/a06j/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 HD
+http://190.61.101.11:7050/play/a05e/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7
+http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Opc.2)
+http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 Latin (Opc.2)
+http://190.217.66.92:8000/play/a0dh/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 (Opc.2)
+http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD (Opc.2)
+http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 (Opc.2)
+http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7 (Opc.2)
+http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN CO (Opc.2)
+http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD (Opc.2)
+http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.2)
+http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.3)
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD - (Opc.4)
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN2 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN4 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0og/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN5 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN6 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN7 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos",Enlace TBN (Internacional)
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos",EWTN (Internacional)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos",TaberTV (El Salvador)
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos",Josué TV (El Salvador)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-logo="https://ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png" group-title="Religiosos",Ministerios Ebenezer (Guatemala)
+https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3T5bGXkBuQsXbc8Mj2ZEv-e-3Id7CtJnk_hBTt0IcPIMghp9lwDpUp29I6rc2gTouTx5UDwEaqnJ1ReaIgadQDEsHLP5qml93IDPMxUWd6-ekxv76_yEDfZ2MGYcqCuNXNPnSP1BmZRhr1a9nNgdL132y6FTl2oibyUKURUTUckkwtf9_TGUxh7gUVJj/s600/ebenezer-tv.png" group-title="Religiosos",Ebenezer TV (Honduras / San Pedro Sula)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Religiosos",Vida al Maximo TV
+https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos",Unife TV (Perú)
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos",Canal Orbe 21 (Argentina)
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religiosos",Cristovisión (Colombia)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Religiosos",Tele Amiga (Colombia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religiosos",Tele Vid (Colombia)[Inestable]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religiosos",TNE TV Evangélica (Chile)
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNs1Xz6B/299614369-426056002888660-5252932446607294666-n-removebg-preview.png" group-title="Religiosos",Gracia TV (Chile)
+https://v4.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religiosos",Televida Chillán (Chile)
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religiosos",Canal ISB San Bernardo (Chile)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Religiosos",NCTV San Joaquín (Chile)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Religiosos",VC Online (Chile)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Religiosos",Unsion TV (Azuay)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religiosos",TV Universal (Ecuador)
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Religiosos",Ñuka TV [No 24/7] (Pichincha)
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religiosos",JN19 (Perú)
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKzV7m7.png" group-title="Religiosos",Bendición Channel (Honduras)
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Religiosos",Oasis TV (Honduras)
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos",UMVirtual Montemorelos (México)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Religiosos",Zoe Visión (Puerto Rico)
+https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Religiosos",Unifranz (Bolivia)
+https://live.enhdtv.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Religiosos",XTOTV (Bolivia)
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Religiosos",Canal Diocesano Toledo (España)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg" group-title="Novelas Asia",K-Drama+ (Rakuten)
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Doramas / Asia",Series K-Drama
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Novelas Asia",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png" group-title="Doramas / Asia",K-Drama+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png" group-title="Novelas Asia",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Doramas / Asia",Series K-Comedia Romántica
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Novelas Asia",Series K-Comedia Romántica
 https://jmp2.uk/stvp-ES200041FT
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Doramas / Asia",Coreano by CJ ENM
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Novelas Asia",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="Doramas / Asia",Mundo Series
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="Novelas Asia",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Doramas / Asia",NEW K-MOVIES (SUB)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Novelas Asia",NEW K-MOVIES (SUB)
 https://jmp2.uk/stvp-ES170000433
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas / Asia",Rakuten VIKI (SUB)
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Novelas Asia",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
-https://jmp2.uk/stvp-ES3900001QG
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV7RRh0d/Diseno-sin-titulo(11).png" group-title="Informativos Internac",Telefórmula (Nacional)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Informativos Internac",Canal Catorce SPR (Nacional)
@@ -515,8 +712,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Informativos Internac",NG Federal TV (Resistencia - Chaco)
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Informativos Internac",24/7 Canal de Noticias (Neuquén)
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Informativos Internac",Celta TV (Tres Arroyos - Buenos Aires)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Informativos Internac",UMSA TVU LP (La Paz)
@@ -637,69 +832,72 @@ https://jmp2.uk/stvp-ESBD130000205
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Infantiles",Dios Te Ve Kids (Latam)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos",Enlace TBN (Internacional)
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos",EWTN (Internacional)
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos",TaberTV (El Salvador)
-https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos",Josué TV (El Salvador)
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-logo="https://ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png" group-title="Religiosos",Ministerios Ebenezer (Guatemala)
-https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3T5bGXkBuQsXbc8Mj2ZEv-e-3Id7CtJnk_hBTt0IcPIMghp9lwDpUp29I6rc2gTouTx5UDwEaqnJ1ReaIgadQDEsHLP5qml93IDPMxUWd6-ekxv76_yEDfZ2MGYcqCuNXNPnSP1BmZRhr1a9nNgdL132y6FTl2oibyUKURUTUckkwtf9_TGUxh7gUVJj/s600/ebenezer-tv.png" group-title="Religiosos",Ebenezer TV (Honduras / San Pedro Sula)
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Religiosos",Vida al Maximo TV
-https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos",Unife TV (Perú)
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos",Canal Orbe 21 (Argentina)
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religiosos",Cristovisión (Colombia)
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Religiosos",Tele Amiga (Colombia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religiosos",Tele Vid (Colombia)[Inestable]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religiosos",TNE TV Evangélica (Chile)
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNs1Xz6B/299614369-426056002888660-5252932446607294666-n-removebg-preview.png" group-title="Religiosos",Gracia TV (Chile)
-https://v4.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religiosos",Televida Chillán (Chile)
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religiosos",Canal ISB San Bernardo (Chile)
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Religiosos",NCTV San Joaquín (Chile)
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Religiosos",VC Online (Chile)
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Religiosos",Unsion TV (Azuay)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religiosos",TV Universal (Ecuador)
-https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Religiosos",Ñuka TV [No 24/7] (Pichincha)
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religiosos",JN19 (Perú)
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKzV7m7.png" group-title="Religiosos",Bendición Channel (Honduras)
-https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Religiosos",Oasis TV (Honduras)
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos",UMVirtual Montemorelos (México)
-https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Religiosos",Zoe Visión (Puerto Rico)
-https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Religiosos",Unifranz (Bolivia)
-https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Religiosos",XTOTV (Bolivia)
-#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
-http://190.104.15.135/0.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Religiosos",Canal Diocesano Toledo (España)
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic (Internacional)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s (Internacional)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s (Internacional)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts (Internacional)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance (Internacional)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",Conecta TV Regional (México)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",Gex TV (Costa Rica)
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Música",SOY Plancha TV (Costa Rica)
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Música",Urbano TV (Costa Rica)
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television (Costa Rica)
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Música",Vision Television (Colombia)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música",MasMusica FM (Colombia)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="Música",La Perla Radio TV (Ecuador) [Not 24/7]
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Música",Metropoli Medios TV (Ecuador)
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="Música",Radio Cuenca Estéreo (Ecuador)
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Música",Radio Fantástica 98.9 FM (Ecuador)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Música",Radio Master (Perú)
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Música",Salsa Gorda Television (Perú) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música",Retro Plus TV (Inglés) (Chile)
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música",Retro Plus TV (Español) (Chile)
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Música",VClassic TV (Chile)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Música",PortalFoxMix (Chile)
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música",AE Radio TV (Chile)
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Música",Planeta TV (Chile)
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Música",13 Festival (Chile)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XnX1pw2/logo-fantasia-tv-dos-1024x1024.png" group-title="Música",Fantasia TV (Chile)
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Música",Beats Radio 100.5 FM (Argentina)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFnjJqht/5-2.png" group-title="Música",Chamame TV (Argentina)
+https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brh7qmQP/6-2.png" group-title="Música",Ritmo Universal (Argentina)
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits (Argentina)
+https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música",Verbena TV (España)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://dancefm.es/wp-content/uploads/2020/04/logo-web-png-1024x169.png" group-title="Música",Dance FM (España)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música",Sol Música (España)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",13 Go (Nacional)
@@ -1304,185 +1502,3 @@ https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="España",Lancelot Televisión Lanzarote (Las Palmas)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic (Internacional)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s (Internacional)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s (Internacional)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts (Internacional)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance (Internacional)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",Conecta TV Regional (México)
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",Gex TV (Costa Rica)
-https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Música",SOY Plancha TV (Costa Rica)
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Música",Urbano TV (Costa Rica)
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television (Costa Rica)
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Música",Vision Television (Colombia)
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música",MasMusica FM (Colombia)
-https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="Música",La Perla Radio TV (Ecuador) [Not 24/7]
-https://eu1.servers10.com:8081/8068/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Música",Metropoli Medios TV (Ecuador)
-https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="Música",Radio Cuenca Estéreo (Ecuador)
-https://eu1.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Música",Radio Fantástica 98.9 FM (Ecuador)
-http://190.107.232.9:8082/livestream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Música",Radio Master (Perú)
-https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Música",Salsa Gorda Television (Perú) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música",Retro Plus TV (Inglés) (Chile)
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música",Retro Plus TV (Español) (Chile)
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Música",VClassic TV (Chile)
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Música",PortalFoxMix (Chile)
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música",AE Radio TV (Chile)
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Música",Planeta TV (Chile)
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Música",13 Festival (Chile)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XnX1pw2/logo-fantasia-tv-dos-1024x1024.png" group-title="Música",Fantasia TV (Chile)
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Música",Beats Radio 100.5 FM (Argentina)
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFnjJqht/5-2.png" group-title="Música",Chamame TV (Argentina)
-https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brh7qmQP/6-2.png" group-title="Música",Ritmo Universal (Argentina)
-https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits (Argentina)
-https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música",Verbena TV (España)
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://dancefm.es/wp-content/uploads/2020/04/logo-web-png-1024x169.png" group-title="Música",Dance FM (España)
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música",Sol Música (España)
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="Deportes",FIFA+ (FR) (Internacional)
-https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="Deportes",FIFA+ (DE) (Internacional)
-https://d94238f5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRklGQVBsdXNHZXJtYW5fSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
-http://190.61.101.11:7050/play/a04v/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD
-http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA
-http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX NIC GUA
-http://190.61.101.11:7050/play/a0af/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
-http://190.61.101.11:7050/play/a05o/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://viaxesports.com/wp-content/themes/ViaxExports/img/viaxesports.png" group-title="Deportes",Via X Esports
-http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",Azteca Deportes Network
-http://190.61.101.11:7050/play/a08l/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
-https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)[Opc.2]
-http://190.61.101.11:7050/play/a04m/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes",TOP Barça [EN]
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (Internacional)
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports[Opc.2]
-http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium
-http://205.235.6.29:8000/play/a104/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
-http://190.61.101.11:7050/play/a04g/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrw1gJPG/racer-og-cover.png" group-title="Deportes",Racer International (EE.UU.) [EN]
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svf7FZ4C/RFTV.png" group-title="Deportes",Rally TV FAST (EE.UU.) [EN]
-https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EE.UU.) [EN]
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes",World Billiards TV (EE.UU.) [EN]
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Deportes",Movistar Deportes[Opc.3]
-http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 5]
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 6]
-http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 7]
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 8]
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 11]
-http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX + PREMIER LIGA (MPV)
-http://190.61.101.11:7050/play/a08w/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sport Premiumm
-http://190.61.101.11:7050/play/a08u/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sports
-http://190.61.101.11:7050/play/a08t/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="FOX Sports",FOX Sports 2 (USA)[Opc. 2]
-http://190.61.101.11:7050/play/a08v/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium [Opc.2]
-http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Perú)
-http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD
-http://190.61.101.11:7050/play/a09k/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
-http://190.61.101.11:7050/play/a05c/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD
-http://190.61.101.11:7050/play/a05d/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD
-http://190.61.101.11:7050/play/a08p/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD
-http://190.61.101.11:7050/play/a06j/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 HD
-http://190.61.101.11:7050/play/a05e/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7
-http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Opc.2)
-http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 Latin (Opc.2)
-http://190.217.66.92:8000/play/a0dh/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 (Opc.2)
-http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD (Opc.2)
-http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD (Opc.2)
-http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD (Opc.2)
-http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 (Opc.2)
-http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7 (Opc.2)
-http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN CO (Opc.2)
-http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD (Opc.2)
-http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.2)
-http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.3)
-http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD - (Opc.4)
-http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN2 HD - (Opc.4)
-http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN4 HD - (Opc.4)
-http://181.224.255.210:8001/play/a0og/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN5 HD - (Opc.4)
-http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN6 HD - (Opc.4)
-http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN7 HD - (Opc.4)
-http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
