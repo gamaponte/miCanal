@@ -14,6 +14,10 @@ https://i0005.clarodrive.com/s/ttdc2zK8F7nqNC6/download/Ana%20de%20las%20tejas%2
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Padre Pío (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7sdvvmPcLd7ney331FXGy79Z8brW1FJBo4qcE_oMDQ&s=10" group-title="Católicas",Padre Pío (2022)
 https://i0005.clarodrive.com/s/QqCypmWwYF8nMYn/download/Padre%20P%C3%ADo%20nueva.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Barrabas (1961)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCbHtegNlBjXC213ayZx5z3b1J1J_LW7BsYDZyx2pZw&s=10" group-title="Católicas",Barrabas (1961)
-https://i0005.clarodrive.com/s/LTBeama3iDJESfT/download/Barrabas%20%281961%29_latino.mkv
+https://i0005.clarodrive.com/s/szydKkmjTn492wy/download/Barabbas%20%281961%29.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Quo Vadis (1951)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IW6o3gDnA6NLStXMsv7WUWCpzt12pDCx1_Y2HpmSFg&s=10" group-title="Católicas",Quo Vadis (1951)
+https://i0005.clarodrive.com/s/7xoKiQMKcBP7qB7/download/Quo%20Vadis%20%281951%29.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Ben-Hur (1959)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCaNK-pnFqi3wjCsMt4v_7wKZmJxUhGZZglJtYWh_fA&s=10" group-title="Católicas",Ben-Hur (1959)
+https://i0005.clarodrive.com/s/a37NCKAYPoT6dap/download/Ben-Hur%20%281959%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
