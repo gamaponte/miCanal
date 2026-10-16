@@ -32,16 +32,16 @@ https://i0005.clarodrive.com/s/MmFLznDbJGdqQJo/download/02-San%20Agust%C3%ADn%20
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Los Diez Mandamientos (1956)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3WpsjMM62ZFWf0_F0T1PDNx6zBfxbITAxQ4gO_ynww&s=10" group-title="Católicas",Los Diez Mandamientos (1956)
 https://i0005.clarodrive.com/s/tXZNWszxJ7RFwpM/download/Los%20Diez%20Mandamientos%20%281956%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Padre Pio (2000)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSSPjMES7ZxgMUygbMJzS5RqqaJ0vQyNaEG_dA3mYIg&s=10" group-title="Católicas",La Pasión de Cristo (2004)
-https://i0005.clarodrive.com/s/kmnzfcmbTXa3SwH/download/La%2520Pasi%25C3%25B3n%2520de%2520Cristo%2520%25282004%2529_sub.mp4
+https://i0005.clarodrive.com/s/x6oxmCLn92iMn9i/download/La%20Pasion%20de%20Cristo%20%282004%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Las Llaves del Reino (1944)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY4g07uyQlvLwkNsXXU3Z4Qf7fnbflMEuxB9WW21pBg&s=10" group-title="Católicas",Las Llaves del Reino (1944)
 https://i0005.clarodrive.com/s/J39jyRyyscpQfCF/download/Las%20Llaves%20del%20Reyno%20%281944%29_sub.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="El Cura de Ars (2024)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWINgWskg5iVIRgA61hGfYjsrkXPVw-gFbeukSUAp7lQ&s=10" group-title="Católicas",El Cura de Ars (2024)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Curé of Ars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWINgWskg5iVIRgA61hGfYjsrkXPVw-gFbeukSUAp7lQ&s=10" group-title="Católicas",El Cura de Ars (2024)
 https://i0005.clarodrive.com/s/WZB46WZKHArHxac/download/EL%20SANTO%20CURA%20DE%20ARS.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Parte 1 - La Túnica Sagrada (1953)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowvzN9k1JSYcZJp4jQIBy0gzveD_PcBE6uAkl24LOlw&s=10" group-title="Católicas",Parte 1 - La Túnica Sagrada (1953)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Robe (1953)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowvzN9k1JSYcZJp4jQIBy0gzveD_PcBE6uAkl24LOlw&s=10" group-title="Católicas",Parte 1 - La Túnica Sagrada (1953)
 https://i0005.clarodrive.com/s/QqCypmWwYF8nMYn/download/Padre%20P%C3%ADo%20nueva.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Parte 2 - Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgPApKm26f4MCWyuc8fW8Bt-RROe2zcrAEDnE-vuRvg&s" group-title="Católicas",Parte 2 - Demetrius y los Gladiadores (1954)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgPApKm26f4MCWyuc8fW8Bt-RROe2zcrAEDnE-vuRvg&s" group-title="Católicas",Parte 2 - Demetrius y los Gladiadores (1954)
 https://i0005.clarodrive.com/s/QqCypmWwYF8nMYn/download/Padre%20P%C3%ADo%20nueva.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
-https://i0005.clarodrive.com/s/ttdc2zK8F7nqNC6/download/Ana%20de%20las%20tejas%20verdes%20capitulo%2002.mp4
+https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
