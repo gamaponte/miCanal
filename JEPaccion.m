@@ -38,10 +38,18 @@ https://i0005.clarodrive.com/s/J39jyRyyscpQfCF/download/Las%20Llaves%20del%20Rey
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Curé of Ars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWINgWskg5iVIRgA61hGfYjsrkXPVw-gFbeukSUAp7lQ&s=10" group-title="Católicas",El Cura de Ars (2024)
 https://i0005.clarodrive.com/s/WZB46WZKHArHxac/download/EL%20SANTO%20CURA%20DE%20ARS.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Robe (1953)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowvzN9k1JSYcZJp4jQIBy0gzveD_PcBE6uAkl24LOlw&s=10" group-title="Católicas",Parte 1 - La Túnica Sagrada (1953)
-https://i0005.clarodrive.com/s/QqCypmWwYF8nMYn/download/Padre%20P%C3%ADo%20nueva.mp4
+https://i0005.clarodrive.com/s/YopXoCcsgCdAsgj/download/The.Robe.1953_esp.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgPApKm26f4MCWyuc8fW8Bt-RROe2zcrAEDnE-vuRvg&s" group-title="Católicas",Parte 2 - Demetrius y los Gladiadores (1954)
 https://i0005.clarodrive.com/s/RnSX4ZEcLBtwPR2/download/Demetrius%20y%20los%20Gladiadores%20%281954%29_dual.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Cyrano De Bergerac (1990)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjBXqv_jrNHuyAdedNocRSpxkbPq-lDEGxW0NhbbpqA&s=10" group-title="Aventuras",Cyrano De Bergerac (1990)
+https://i0005.clarodrive.com/s/cJkknPYtkZenGsn/download/Cyrano%20De%20Bergerac%20%281990%29_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Danza con lobos (1990)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxixWiPKsvIRqezVJ59czImGYOBWL06rUd5FQ5cCwMg&s=10" group-title="Aventuras",Danza con lobos (1990)
+https://i0005.clarodrive.com/s/bFfmiyS9nfn6JcZ/download/Dances.with.Wolves.DC.1990_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
+https://i0005.clarodrive.com/s/rn5Qfjdx44Mnt4K/download/Entrelobos%20%282010%29.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Frankenstein (1931)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoT96jQPPaJqRKBNNVLMTPjpy-UB0QiF5BuGKjYgYag&s=10" group-title="Clásicas",Frankenstein (1931)
+https://i0005.clarodrive.com/s/2HzPYSDXM23sinn/download/Frankenstein.1931_sub.mp4
