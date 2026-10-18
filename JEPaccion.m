@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHcEp4CGmgOhHGVGqDMZUfC_9z7xDnn9HMNj2fuq7yQ&s=10" group-title="Acción",Oppenheimer (2023)
 https://i0005.clarodrive.com/s/xNtQaXdKabjYJqE/download/Oppenheimer.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maxe Runner (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHcEp4CGmgOhHGVGqDMZUfC_9z7xDnn9HMNj2fuq7yQ&s=10" group-title="Acción",Maxe Runner (2015)
+https://i0005.clarodrive.com/s/xNtQaXdKabjYJqE/download/Oppenheimer.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze.Runner: La cura mortal (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziaJzt-wzdMSYddqMdkDlU4Bj3NC51vQqP6VWajgj2w&s" group-title="Acción",Maze.Runner: La cura mortal (2018)
+https://i0005.clarodrive.com/s/tf7XKJNr9kFDqHK/download/Maze.Runner.The.Death.Cure.2018_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade runner 2049 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbF5b1ur6eQD3OQYOvQzcn8SZnfuTN_a_bwYXKyRsxZA&s=10" group-title="Sci-Fi",Blade runner 2049 (2017)
 https://i0005.clarodrive.com/s/4Gd5dJKbST2btds/download/Blade%20Runner%202049%20%282017%29_dual.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Duna parte 1 (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU3kjgPYn6oj6m6WxE5gxSz2AF9eS-DFZXeddTWxnJA&s=10" group-title="Sci-Fi",Duna parte 1 (2021)
@@ -49,6 +53,12 @@ https://i0005.clarodrive.com/s/cJkknPYtkZenGsn/download/Cyrano%20De%20Bergerac%2
 https://i0005.clarodrive.com/s/bFfmiyS9nfn6JcZ/download/Dances.with.Wolves.DC.1990_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Cristal Encantado (1982)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxC8nK-W6b7muPiMhGhzYHw4FtIM6fNnPLPfqAIqdog&s=10" group-title="Aventuras",El Cristal Encantado (1982)
 https://i0005.clarodrive.com/s/FHHYFQmfcAHHiaF/download/El%20Cristal%20Encantado%20%281982%29.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Batman (1989)" tvg-logo="https://i.pinimg.com/736x/12/9e/8e/129e8edddf093d6386aa59e95fe1d777.jpg" group-title="Aventuras",Batman (1989)
+https://i0005.clarodrive.com/s/QfpZFjykxY2mR3p/download/Batman%20%281989%29_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Batman returns (1992)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMWQK5xufDCTFtfHJI_DKxqYz780-bDdTJYChWrtExQ&s=10" group-title="Aventuras",Batman returns (1992)
+https://i0005.clarodrive.com/s/idxpeBWbCfn3Zex/download/Batman%20Returns%20%281992%29_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="El muchacho y su montaña (1969)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0ghvGk5FaE7eMe4HsOpnn2fZDZmpHrIlRAybM815Sw&s=10" group-title="Aventuras",El muchacho y su montaña (1969)
+https://i0005.clarodrive.com/s/6rAJ78SWZZGbPtk/download/My%20Side%20Of%20The%20Mountain%20%281969%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
