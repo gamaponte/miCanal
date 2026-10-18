@@ -33,7 +33,7 @@ https://i0005.clarodrive.com/s/a37NCKAYPoT6dap/download/Ben-Hur%20%281959%29.mp4
 https://i0005.clarodrive.com/s/7Z8PLF5A6BtWYop/download/Padre%20P%C3%ADo%20%282000%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="San Agustin (2010) - Parte 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUI1QATEXn3tJUkvgKAah56MkoAdBLs3VLKjYAqbjhCg&s=10" group-title="Católicas",San Agustin (2010) - Parte 1
 https://i0005.clarodrive.com/s/dmNeCP8868Wcca9/download/01-San%20Agust%C3%ADn%20de%20Hipona.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="San Agustin (2010) - Parte 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWE0CvKK40BJpQp6LKl1FdOxTjblqL4fdzU6qywqVLsQ&s=10" group-title="Católicas",San Agustin (2010) - Parte 2
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="San Agustin (2010) - Parte 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrAJfc0o9PvqZ6ZRWvK2orEQsUdn28f7MnJw8yvUE7A&s" group-title="Católicas",San Agustin (2010) - Parte 2
 https://i0005.clarodrive.com/s/MmFLznDbJGdqQJo/download/02-San%20Agust%C3%ADn%20de%20Hipona.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Los Diez Mandamientos (1956)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3WpsjMM62ZFWf0_F0T1PDNx6zBfxbITAxQ4gO_ynww&s=10" group-title="Católicas",Los Diez Mandamientos (1956)
 https://i0005.clarodrive.com/s/tXZNWszxJ7RFwpM/download/Los%20Diez%20Mandamientos%20%281956%29.mp4
@@ -47,7 +47,7 @@ https://i0005.clarodrive.com/s/WZB46WZKHArHxac/download/EL%20SANTO%20CURA%20DE%2
 https://i0005.clarodrive.com/s/YopXoCcsgCdAsgj/download/The.Robe.1953_esp.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgPApKm26f4MCWyuc8fW8Bt-RROe2zcrAEDnE-vuRvg&s" group-title="Católicas",Parte 2 - Demetrius y los Gladiadores (1954)
 https://i0005.clarodrive.com/s/RnSX4ZEcLBtwPR2/download/Demetrius%20y%20los%20Gladiadores%20%281954%29_dual.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9CJzYtSMqxucprV3JtAPwRwz7ZOuvvqtqc35zfm5Aw&s=10" group-title="Católicas",Samson y Dalila (1943)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9CJzYtSMqxucprV3JtAPwRwz7ZOuvvqtqc35zfm5Aw&s=10" group-title="Católicas",Samson y Dalila (1949)
 https://i0005.clarodrive.com/s/k7a2ySqEdC4iK9K/download/Sanson%20y%20Dalila%20%281949%29.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
@@ -65,9 +65,13 @@ https://i0005.clarodrive.com/s/idxpeBWbCfn3Zex/download/Batman%20Returns%20%2819
 https://i0005.clarodrive.com/s/6rAJ78SWZZGbPtk/download/My%20Side%20Of%20The%20Mountain%20%281969%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Gremlins" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4pOi0SBGzwqBHZy9wTAFc1vH2O5kL6l0dQlFQGHc-A&s=10" group-title="Aventuras",Gremlins
 https://i0005.clarodrive.com/s/yFZYwCk5Q3FzeLP/download/Gremlins.mkv
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Corazón Valiente" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuiNd6LP6kVXb04Ar_oCzc3m6LfyupDOTvTBIeNZeLaA&s=10" group-title="Aventuras",Corazón Valiente
+https://i0005.clarodrive.com/s/Wy6pNXNekxEcTSL/download/Bravehart.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
 https://i0005.clarodrive.com/s/rn5Qfjdx44Mnt4K/download/Entrelobos%20%282010%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Frankenstein (1931)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoT96jQPPaJqRKBNNVLMTPjpy-UB0QiF5BuGKjYgYag&s=10" group-title="Clásicas",Frankenstein (1931)
 https://i0005.clarodrive.com/s/2HzPYSDXM23sinn/download/Frankenstein.1931_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="El Fantasma de la Opera (1943)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwYAHWmj1DNiD6ZQ9E-i-wVuk_uL8W354W8hwNDooiQ&s=10" group-title="Clásicas",El Fantasma de la Opera (1943)
+https://i0005.clarodrive.com/s/iz7FHrYempJzztq/download/El%20fantasma%20de%20la%20opera%20%281943%29.mkv
