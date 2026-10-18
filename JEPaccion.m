@@ -49,6 +49,10 @@ https://i0005.clarodrive.com/s/YopXoCcsgCdAsgj/download/The.Robe.1953_esp.mp4
 https://i0005.clarodrive.com/s/RnSX4ZEcLBtwPR2/download/Demetrius%20y%20los%20Gladiadores%20%281954%29_dual.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9CJzYtSMqxucprV3JtAPwRwz7ZOuvvqtqc35zfm5Aw&s=10" group-title="Católicas",Samson y Dalila (1949)
 https://i0005.clarodrive.com/s/k7a2ySqEdC4iK9K/download/Sanson%20y%20Dalila%20%281949%29.mkv
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm--qsif3Z5alIsuURUCt-IuZDaIwyNxzTG3Zf4hXFTQ&s=10" group-title="Católicas",La Canción de Bernadette
+https://i0005.clarodrive.com/s/ZkxsfbnrM3EKbbr/download/La%20cancion%20de%20Bernadette_spa.mkv
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg22_iK3A8RrAxdkbScb_huWkOeHYMWdJNkl7dCntNKQ&s=10" group-title="Católicas",Juana de Arco (1948)
+https://i0005.clarodrive.com/s/8D8sm59XCNsiCRL/download/Juana%20de%20Arco%20%281948%29.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Cyrano De Bergerac (1990)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjBXqv_jrNHuyAdedNocRSpxkbPq-lDEGxW0NhbbpqA&s=10" group-title="Aventuras",Cyrano De Bergerac (1990)
@@ -67,6 +71,8 @@ https://i0005.clarodrive.com/s/6rAJ78SWZZGbPtk/download/My%20Side%20Of%20The%20M
 https://i0005.clarodrive.com/s/yFZYwCk5Q3FzeLP/download/Gremlins.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Corazón Valiente" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuiNd6LP6kVXb04Ar_oCzc3m6LfyupDOTvTBIeNZeLaA&s=10" group-title="Aventuras",Corazón Valiente
 https://i0005.clarodrive.com/s/Wy6pNXNekxEcTSL/download/Bravehart.mkv
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWT7-Rrcd8MnlJWTfrvCWTcsgaSYTIrdK2XBj-Xt6m9A&s=10" group-title="Aventuras",El Ultimo Samurai
+https://i0005.clarodrive.com/s/rngEJRBqwjnrda3/download/El%20Ultimo%20Samurai_final.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
