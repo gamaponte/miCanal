@@ -47,6 +47,8 @@ https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20su
 https://i0005.clarodrive.com/s/cJkknPYtkZenGsn/download/Cyrano%20De%20Bergerac%20%281990%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Danza con lobos (1990)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxixWiPKsvIRqezVJ59czImGYOBWL06rUd5FQ5cCwMg&s=10" group-title="Aventuras",Danza con lobos (1990)
 https://i0005.clarodrive.com/s/bFfmiyS9nfn6JcZ/download/Dances.with.Wolves.DC.1990_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="El Cristal Encantado (1982)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxC8nK-W6b7muPiMhGhzYHw4FtIM6fNnPLPfqAIqdog&s=10" group-title="Aventuras",El Cristal Encantado (1982)
+https://i0005.clarodrive.com/s/FHHYFQmfcAHHiaF/download/El%20Cristal%20Encantado%20%281982%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
