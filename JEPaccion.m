@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHcEp4CGmgOhHGVGqDMZUfC_9z7xDnn9HMNj2fuq7yQ&s=10" group-title="Acción",Oppenheimer (2023)
 https://i0005.clarodrive.com/s/xNtQaXdKabjYJqE/download/Oppenheimer.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maxe Runner (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHcEp4CGmgOhHGVGqDMZUfC_9z7xDnn9HMNj2fuq7yQ&s=10" group-title="Acción",Maxe Runner (2015)
-https://i0005.clarodrive.com/s/xNtQaXdKabjYJqE/download/Oppenheimer.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze.Runner: La cura mortal (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziaJzt-wzdMSYddqMdkDlU4Bj3NC51vQqP6VWajgj2w&s" group-title="Acción",Maze.Runner: La cura mortal (2018)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze Runner: Prueba de Fuego (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugaEcELtcKpaiwwt2eHkuByQ3qsnwNX9O_ASiWWmvjg&s=10" group-title="Acción",Maze Runner: Prueba de Fuego (2015)
+https://i0005.clarodrive.com/s/cZsiz4HwBZfCqfQ/download/Maze.Runner.The.Scorch.Trials.2015_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze Runner: La cura mortal (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziaJzt-wzdMSYddqMdkDlU4Bj3NC51vQqP6VWajgj2w&s" group-title="Acción",Maze Runner: La cura mortal (2018)
 https://i0005.clarodrive.com/s/tf7XKJNr9kFDqHK/download/Maze.Runner.The.Death.Cure.2018_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade runner 2049 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbF5b1ur6eQD3OQYOvQzcn8SZnfuTN_a_bwYXKyRsxZA&s=10" group-title="Sci-Fi",Blade runner 2049 (2017)
 https://i0005.clarodrive.com/s/4Gd5dJKbST2btds/download/Blade%20Runner%202049%20%282017%29_dual.mp4
@@ -15,6 +15,8 @@ https://i0005.clarodrive.com/s/FwQ3awiYtzRk6ss/download/Duna2.mp4
 https://i0005.clarodrive.com/s/ttE99Z7sEPPRb2Q/download/Blade%2520Runner%2520Final%2520Cut%2520%25281997%2529.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El abismo negro (1979)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORU-M8jfvMd1VzUjIGiThMYZjMFVPEaWAgOCUMw4BtA&s=10" group-title="Sci-Fi",El abismo negro (1979)
 https://i0005.clarodrive.com/s/9jMGy89LosLJXAs/download/El%20abismo%20negro.avi
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade Runner Blackout 2020 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRnN8LZO9-KHKZjdrL57dIp8klhMR5Zr_EhoX2tCrFA&s=10" group-title="Sci-Fi",Blade Runner Blackout 2020 (2017)
+https://i0005.clarodrive.com/s/Dr42S7RgFez97KF/download/Blade%20Runner%20Black%20Out%202022%20%282017%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Ana de las Tejas Verdes (1985) - Parte 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvMip_6h6R2KNlyfi9Ykkmqap9c-CrqjboPBE2uBtew&s=10" group-title="Familiar",Ana de las Tejas Verdes (1985) - Parte 1
 https://i0005.clarodrive.com/s/nL4qZ9E4HtjSP4b/download/Ana%20de%20las%20tejas%20verdes%20capitulo%2001.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Ana de las Tejas Verdes (1987) - Parte 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0NjQ5ODkyN15BMl5BanBnXkFtZTcwNjY3MDU3Nw@@._V1_FMjpg_UY2250_.jpg" group-title="Familiar",Ana de las Tejas Verdes (1987) - Parte 2
@@ -45,6 +47,8 @@ https://i0005.clarodrive.com/s/WZB46WZKHArHxac/download/EL%20SANTO%20CURA%20DE%2
 https://i0005.clarodrive.com/s/YopXoCcsgCdAsgj/download/The.Robe.1953_esp.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgPApKm26f4MCWyuc8fW8Bt-RROe2zcrAEDnE-vuRvg&s" group-title="Católicas",Parte 2 - Demetrius y los Gladiadores (1954)
 https://i0005.clarodrive.com/s/RnSX4ZEcLBtwPR2/download/Demetrius%20y%20los%20Gladiadores%20%281954%29_dual.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Demetrius y los Gladiadores (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9CJzYtSMqxucprV3JtAPwRwz7ZOuvvqtqc35zfm5Aw&s=10" group-title="Católicas",Samson y Dalila (1943)
+https://i0005.clarodrive.com/s/k7a2ySqEdC4iK9K/download/Sanson%20y%20Dalila%20%281949%29.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="20000 Leguas de Viaje Submarino (1954)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFZhtOEtIvTQQCcDBTxS8jdyYGgsj8xVmSjJvJX9jQ&s=10" group-title="Aventuras",20000 Leguas de Viaje Submarino (1954)
 https://i0005.clarodrive.com/s/mR4GeaPBtEBPsoG/download/20000leguas%20viaje%20submarino.avi
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Cyrano De Bergerac (1990)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjBXqv_jrNHuyAdedNocRSpxkbPq-lDEGxW0NhbbpqA&s=10" group-title="Aventuras",Cyrano De Bergerac (1990)
@@ -59,6 +63,8 @@ https://i0005.clarodrive.com/s/QfpZFjykxY2mR3p/download/Batman%20%281989%29_sub.
 https://i0005.clarodrive.com/s/idxpeBWbCfn3Zex/download/Batman%20Returns%20%281992%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El muchacho y su montaña (1969)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0ghvGk5FaE7eMe4HsOpnn2fZDZmpHrIlRAybM815Sw&s=10" group-title="Aventuras",El muchacho y su montaña (1969)
 https://i0005.clarodrive.com/s/6rAJ78SWZZGbPtk/download/My%20Side%20Of%20The%20Mountain%20%281969%29_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Gremlins" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4pOi0SBGzwqBHZy9wTAFc1vH2O5kL6l0dQlFQGHc-A&s=10" group-title="Aventuras",Gremlins
+https://i0005.clarodrive.com/s/yFZYwCk5Q3FzeLP/download/Gremlins.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Mensaje de Garabandal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W-uqd20Uh94j6FZU93w4oKWhvKUhgiLui7smyy7fhg&s=10" group-title="Documental Religioso",El Mensaje de Garabandal
 https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Garabandal.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Entre Lobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",Entre Lobos (2010)
