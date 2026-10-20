@@ -33,138 +33,83 @@ https://i0005.clarodrive.com/s/YomTfMyDisr4n4K/download/S02E07.mkv
 https://i0005.clarodrive.com/s/7ccgwtG9TbiBdaN/download/S02E08.mkv
 
 # ---------------------------------------------------------------------------
-# Los Simpson: temporadas 1 y 2 y extras
-# Las sinopsis son orientativas; OwnTV puede ignorar el atributo description.
+# PARA SALVARTE - PADRE LORING
+#EXTM3U
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="13" description="Marge intenta recuperar el romance con Homer durante una velada fuera de casa.",Los Simpson S01E13 - Una noche encantadora
-https://i0005.clarodrive.com/s/we8jtQJQY9KBNBH/download/The%20Simpsons%20-%20s01e13%20-%207G01%20Una%20noche%20encantadora.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="1" description="El Padre Jorge Loring explica los objetivos y la bienvenida al programa 'Para Salvarte', un compendio de doctrina, fe y valores morales fundamentales para el cristiano.",Introducción Bienvenida
+https://i0005.clarodrive.com/s/jwswsb7jP5WZqRz/download/S01E01-PARA%20SALVARTE-Gen%C3%A9rico%20%28Ep.%2001%29.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="12" description="Bart descubre que su héroe televisivo, Krusty el Payaso, ha sido acusado de un robo.",Los Simpson S01E12 - Krusty va a la cárcel
-https://i0005.clarodrive.com/s/bqqmYSkazpswDjB/download/The%20Simpsons%20-%20s01e12%20-%207G12%20Krusty%20va%20a%20la%20carcel.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="2" description="Análisis sobre cómo la magnitud del universo, el orden de las estrellas y el estudio del cosmos apuntan a la existencia de un Creador inteligente.",Astronomía Lleva a Dios
+https://i0005.clarodrive.com/s/JJAFYJXAKKsw6L3/download/S01E02-PARA%20SALVARTE-Astronom%C3%ADa%20Lleva%20a%20Dios%20%5BEp.%202%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="11" description="Una experiencia fuera de lo habitual pone a prueba a los miembros de la familia Simpson.",Los Simpson S01E11 - Intercambio cultural
-https://i0005.clarodrive.com/s/wcNmsWS7gmFbzGB/download/The%20Simpsons%20-%20s01e11%20-%207G13%20Intercambio%20cultural.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="3" description="La Sábana Santa confirma nuestra fe en Dios, porque la imagen de Cristo está grabada sin pintura. Los hilos están quemados y la imagen está grabada a fuego. El Padre Loring explica su significado.",Sábana Santa
+https://i0005.clarodrive.com/s/seDCzHzydmptDED/download/S01E03-PARA%20SALVARTE-S%C3%A1bana%20Santa%20%5BEp.%203%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="10" description="Homer se mete en problemas durante una de sus habituales decisiones impulsivas.",Los Simpson S01E10 - La correrÍa de Homero
-https://i0005.clarodrive.com/s/6Je2WgNqMmmqdJ3/download/The%20Simpsons%20-%20s01e10%20-%207G10%20La%20correr%C3%ADa%20de%20Homero.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="4" description="Estudio de los descubrimientos arqueológicos en Tierra Santa que respaldan la veracidad de los relatos bíblicos y la historicidad de los Evangelios.",Arqueología
+https://i0005.clarodrive.com/s/YTfMJ6n9axc32xm/download/S01E04-PARA%20SALVARTE-Arqueolog%C3%ADa%20%5BEp.%204%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="09" description="La familia afronta una situación que exige tomar una decisión importante.",Los Simpson S01E09 - Un momento de decisión
-https://i0005.clarodrive.com/s/7c58rQdAiBaBEee/download/The%20Simpsons%20-%20s01e09%20-%207G11%20Un%20momento%20de%20decisi%C3%B3n.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="5" description="Exposición racional y teológica que justifica por qué el cristianismo fundamenta de manera sólida y coherente la fe y la moral del ser humano.",Razones para ser Cristiano
+https://i0005.clarodrive.com/s/Fs99afAfFWMHbDG/download/S01E05-PARA%20SALVARTE-Razones%20para%20ser%20Cristiano%20%5BEp.%205%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="08" description="Una travesura de Bart termina convirtiéndose en un problema inesperado.",Los Simpson S01E08 - El héroe sin cabeza
-https://i0005.clarodrive.com/s/JyMzfgMRbq7rDCc/download/The%20Simpsons%20-%20s01e08%20-%207G07%20El%20h%C3%A9roe%20sin%20cabeza.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="6" description="Demostración histórico-teológica de que Jesucristo no fue únicamente un profeta o un gran maestro, sino verdadero Dios y verdadero hombre.",Divinidad de Cristo
+https://i0005.clarodrive.com/s/DqdAHykEWCBbXzS/download/S01E06-PARA%20SALVARTE-Divinidad%20de%20Cristo%20%5BEp.%206%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="07" description="Una salida familiar se convierte en una aventura caótica para los Simpson.",Los Simpson S01E07 - La llamada de los Simpson
-https://i0005.clarodrive.com/s/HYGBdCjjEGYG2o5/download/The%20Simpsons%20-%20s01e07%20-%207G09%20La%20llamada%20de%20los%20Simpson.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="7" description="Reflexión sobre la trascendencia de la figura histórica y espiritual de Jesús de Nazaret y el impacto transformador de su mensaje en la historia humana.",Jesucristo, El Más Grande
+https://i0005.clarodrive.com/s/jbRi4EgWxZALjL2/download/S01E07-PARA%20SALVARTE-Jesucristo_%20El%20M%C3%A1s%20Grande%20%5BEp.%207%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="06" description="Lisa atraviesa una etapa difícil y busca una manera de afrontar sus sentimientos.",Los Simpson S01E06 - La depresión de Lisa
-https://i0005.clarodrive.com/s/ENykGdg377gedHY/download/The%20Simpsons%20-%20s01e06%20-%207G06%20La%20depresi%C3%B3n%20de%20Lisa.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="8" description="Dios nos asegura a través de la Biblia que su misericordia borra los pecados. Su misericordia hay que armonizarla con su justicia; para que haya perdón es necesario el arrepentimiento del pecador.",Confesión
+https://i0005.clarodrive.com/s/KgoH4RPQnKAranq/download/S01E08-PARA%20SALVARTE-Confesi%C3%B3n%20%5BEp.%208%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="05" description="Bart se enfrenta a la autoridad escolar y pone en marcha un plan para salirse con la suya.",Los Simpson S01E05 - El General Bart
-https://i0005.clarodrive.com/s/4JG4qSw9dkwGrML/download/The%20Simpsons%20-%20s01e05%20-%207G05%20El%20General%20Bart.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="9" description="¿Qué podemos hacer a la hora de la muerte si no tenemos un sacerdote al lado? El Padre Loring enseña lo que podemos hacer y decir para que Dios nos perdone si no contamos con la confesión al morir.",Confesión en la Hora de la Muerte
+https://i0005.clarodrive.com/s/r4L4jsJgWA7BbGS/download/S01E09-PARA%20SALVARTE-Confesi%C3%B3n%20en%20la%20Hora%20de%20la%20Muerte%20%5BEp.%209%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="04" description="Homer intenta mejorar la situación familiar, pero sus decisiones no salen como esperaba.",Los Simpson S01E04 - Una familia modelo
-https://i0005.clarodrive.com/s/3p4g5ce2fcdySGS/download/The%20Simpsons%20-%20s01e04%20-%207G04%20Una%20familia%20modelo.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="10" description="El Padre Loring habla del estudio científico de las doce figuras humanas encontradas en los ojos de la Virgen de Guadalupe en México y la historia de esta devoción.",Guadalupe
+https://i0005.clarodrive.com/s/RLgynBEkAB3WyAM/download/S01E10-PARA%20SALVARTE-Guadalupe%20%5BEp.%2010%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="03" description="Homer pierde su empleo y busca una nueva oportunidad para mantener a su familia.",Los Simpson S01E03 - La odisea de Homero
-https://i0005.clarodrive.com/s/RoRfL68WSgBpHSN/download/The%20Simpsons%20-%20s01e03%20-%207G03%20La%20odisea%20de%20Homero.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="11" description="María es la Madre de Dios y por este dogma es favorecida con muchas gracias. El Padre Loring explica los dogmas marianos de la Inmaculada Concepción, Maternidad Divina y Virginidad de María.",María
+https://i0005.clarodrive.com/s/Ct8wdfjT6CP3DF8/download/S01E11-PARA%20SALVARTE-Mar%C3%ADa%20%5BEP.%2011%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="02" description="Bart es confundido con un niño superdotado y enviado a una escuela especial.",Los Simpson S01E02 - Bart es un genio
-https://i0005.clarodrive.com/s/ogmwWY8Ac4WtGJM/download/The%20Simpsons%20-%20s01e02%20-%207G02%20Bart%20es%20un%20genio.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="12" description="María es la medianera de todas las gracias. Podemos recurrir a la Virgen para que ella nos lleve a Cristo. Dios ha utilizado a María para nuestro beneficio.",María Medianera
+https://i0005.clarodrive.com/s/7yGZNHN4rDQ3X8Z/download/S01E12-PARA%20SALVARTE-Mar%C3%ADa%20Medianera%20%5BEp.%2012%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="1" episode="01" description="Homer intenta conseguir dinero para Navidad y la familia termina adoptando a un nuevo integrante.",Los Simpson S01E01 - Especial de Navidad de Los Simpson
-https://i0005.clarodrive.com/s/6ebRLcPnDSiQ4nC/download/The%20Simpsons%20-%20s01e01%20-%207G08%20Especial%20de%20Navidad%20de%20Los%20Simpson.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="1" episode="13" description="Investigación y análisis en torno a las evidencias históricas y tradiciones sobre el Santo Grial utilizado por Jesucristo en la Última Cena.",Santo Grial
+https://i0005.clarodrive.com/s/xjBdjcJMZ4NcBqR/download/S01E13-PARA%20SALVARTE-Santo%20Grial%20%5BEp.%2013%20T1%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X01" description="Material especial relacionado con los American Music Awards.",Los Simpson S00EX01 - American Music Awards
-https://i0005.clarodrive.com/s/zkYnmRsWfBkWjBX/download/Extra%20-%20American%20Music%20Awards.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="14" description="Exposición sobre la complementariedad entre los avances de la ciencia moderna y los dogmas de la fe católica, demostrando que ambos buscan la Verdad.",Ciencia y Fe no se Contradicen
+https://i0005.clarodrive.com/s/bswH4mmpiT3TA2t/download/S02E14-PARA%20SALVARTE-Ciencia%20y%20Fe%20no%20se%20Contradicen%20%5BEp.%2014%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X02" description="Segmento corto de Los Simpson emitido como parte de un programa televisivo.",Los Simpson S00EX02 - Buenas Noches Simpson
-https://i0005.clarodrive.com/s/HyME9pYnRd22zi4/download/Extra%20-%20Buenas%20Noches%20Simpson.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="15" description="Reflexión sobre las posturas del ateísmo frente a la vivencia de la fe, ofreciendo respuestas a los cuestionamientos modernos sobre la existencia de Dios.",Ateísmo y Fe
+https://i0005.clarodrive.com/s/b2WtzgQr3Qo9xE4/download/S02E15-PARA%20SALVARTE-Ate%C3%ADsmo%20y%20Fe%20%5BEp.%2015%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X03" description="Anuncios de Butterfinger protagonizados por Bart Simpson.",Los Simpson S00EX03 - Comerciales de Butterfinger
-https://i0005.clarodrive.com/s/Kjp5Mm5yd5abCAx/download/Extra%20-%20Comerciales%20de%20Butterfinger.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="16" description="Análisis de los factores éticos, sociales y filosóficos que con frecuencia distancian al hombre contemporáneo de Dios y de la práctica religiosa.",Caminos que Llevan al Ateísmo
+https://i0005.clarodrive.com/s/SmiTY6T29K4ZHan/download/S02E16-PARA%20SALVARTE-Caminos%20que%20Llevan%20al%20Ate%C3%ADsmo%20%5BEp.%2016%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X04" description="Entrevista con los creadores y productores de la serie.",Los Simpson S00EX04 - Entrevista con Matt Groening y James L. Brooks
-https://i0005.clarodrive.com/s/7Q7M3d7Bq9mqJX6/download/Extra%20-%20Entrevista%20con%20Matt%20Groening%20y%20James%20L%20Brooks.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="17" description="Perspectiva de la bioética católica sobre la manipulación genética y la clonación de seres humanos desde el respeto irrestricto a la dignidad humana.",La Clonación es una Monstruosidad
+https://i0005.clarodrive.com/s/Scpomd2B4YzbEFk/download/S02E17-PARA%20SALVARTE-La%20Clonaci%C3%B3n%20es%20una%20Monstruosidad%20%5BEp.%2017%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X05" description="Escenas adicionales o eliminadas relacionadas con el episodio Una noche encantadora.",Los Simpson S00EX05 - Escenas nunca vistas de Una noche encantadora
-https://i0005.clarodrive.com/s/CbwnFyKZWiyCL75/download/Extra%20-%20Escenas%20nunca%20vistas%20de%20Una%20noche%20encantadora.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="18" description="Postura de la Iglesia respecto al valor sagrado de la vida humana en su etapa final y las implicaciones éticas y morales de la eutanasia.",Eutanasia, un Asesinato Legal
+https://i0005.clarodrive.com/s/keaqNNdMqmfw2ZY/download/S02E18-PARA%20SALVARTE-Eutanasia,%20un%20Asesinato%20Legal%20%5BEp.%2018%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X06" description="Material detrás de cámaras sobre el proceso de producción de un episodio.",Los Simpson S00EX06 - La Creación de un Episodio
-https://i0005.clarodrive.com/s/e4TBZLyCpxPdZdi/download/Extra%20-%20La%20Creaci%C3%B3n%20de%20un%20Episodio.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="19" description="Explicación pedagógica de las diferencias doctrinales, de sacramentos y de autoridad entre la Iglesia Católica y las denominaciones protestantes.",Católico Protestante
+https://i0005.clarodrive.com/s/zPacz5YQnWQ6YTj/download/S02E19-PARA%20SALVARTE-Cat%C3%B3lico%20Protestante%20%5BEp.%2019%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X07" description="Material relacionado con una presentación de los Premios Emmy.",Los Simpson S00EX07 - Presentación de los Premios Emmy
-https://i0005.clarodrive.com/s/ZbafnJaGsjAFd9A/download/Extra%20-%20Presentaci%C3%B3n%20de%20los%20Premios%20Emmy.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="20" description="Explicación del significado teológico, comunitario y espiritual del Sacramento de la Eucaristía y la importancia del precepto dominical.",Por qué Vamos a Misa
+https://i0005.clarodrive.com/s/fBRZXqoFN3jYxcZ/download/S02E20-PARA%20SALVARTE-Por%20qu%C3%A9%20Vamos%20a%20Misa%20%5BEp.%2020%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X08" description="Video musical de la canción Deep, Deep Trouble.",Los Simpson S00EX08 - Videoclip Deep Deep Trouble
-https://i0005.clarodrive.com/s/wcpN3Rs6zKqpyrT/download/Extra%20-%20Videoclip%20Deep%20Deep%20Trouble.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="21" description="Enseñanza sobre la existencia, tentaciones y engaños del demonio desde el Magisterio de la Iglesia, y cómo protegerse mediante la fe y la oración.",El Diablo
+https://i0005.clarodrive.com/s/JACStKsEka7bdPp/download/S02E21-PARA%20SALVARTE-El%20Diablo%20%5BEp.%2021%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Extras" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="0" episode="X09" description="Video musical de Do the Bartman, protagonizado por Bart Simpson.",Los Simpson S00EX09 - Videoclip Do The Bartman
-https://i0005.clarodrive.com/s/mnTgjdToXHEwEDm/download/Extra%20-%20Videoclip%20Do%20The%20Bartman.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="22" description="Análisis biológico, legal y moral sobre el derecho fundamental a la vida del no nacido y la postura de la Iglesia sobre el aborto.",Aborto: Asesinato de Inocentes
+https://i0005.clarodrive.com/s/Jqk5cyFwtiAxnEp/download/S02E22-PARA%20SALVARTE-Aborto_%20Asesinato%20de%20Innocentes%20%28Ep.%2022%29.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="01" description="Bart teme reprobar cuarto grado y se esfuerza por aprobar el examen final.",Los Simpson S02E01 - Bart reprueba
-https://i0005.clarodrive.com/s/FQ6za59f769zxLc/download/The%20Simpsons%20-%20s02e01%20-%207F03%20Bart%20reprueba.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="23" description="Definición y consecuencias espirituales del pecado en la relación con Dios y con el prójimo, distinguiendo entre pecado venial y mortal.",El Pecado
+https://i0005.clarodrive.com/s/bXiaBpDSPQHYNQs/download/S02E23-PARA%20SALVARTE-El%20Pecado%20%5BEp.%2023%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="02" description="Homer descubre un producto para hacer crecer el cabello y consigue ascender en la empresa.",Los Simpson S02E02 - Simpson y Dalila
-https://i0005.clarodrive.com/s/keH7xLCpYTEsAHt/download/The%20Simpsons%20-%20s02e02%20-%207F02%20Simpson%20y%20Dalila.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="24" description="Meditación sobre la devoción a la Divina Misericordia, el amor incondicional de Jesucristo y el perdón reservado a los arrepentidos.",Jesús Misericordioso
+https://i0005.clarodrive.com/s/T3RwMcwkTaqcAW4/download/S02E24-PARA%20SALVARTE-Jes%C3%BAs%20Misericordioso%20%5BEp.%2024%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="03" description="Tres historias de terror presentan versiones espeluznantes y cómicas de los Simpson.",Los Simpson S02E03 - Especial de noche de brujas I
-https://i0005.clarodrive.com/s/yaNQ7tH3CY6HKkA/download/The%20Simpsons%20-%20s02e03%20-%207F04%20Especial%20de%20noche%20de%20brujas%20I.avi
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="25" description="Explicación de los Novísimos del hombre: el destino final del alma, la salvación eterna en el Cielo y la perdición en el Infierno.",Cielo e Infierno
+https://i0005.clarodrive.com/s/R2NKgo78TqRgQHm/download/S02E25-PARA%20SALVARTE-Cielo%20e%20Infierno%20%5BEp.%2025%20T2%5D.mp4
 
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="04" description="Bart encuentra un pez mutante cerca de la planta nuclear y la noticia amenaza a Burns.",Los Simpson S02E04 - El pez de tres ojos
-https://i0005.clarodrive.com/s/Sz4jWkmmNDYHd2X/download/The%20Simpsons%20-%20s02e04%20-%207F01%20El%20pez%20de%20tres%20ojos.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="05" description="Homer busca una nueva forma de ganarse la vida y prueba suerte en el mundo del espectáculo.",Los Simpson S02E05 - Homero el animador
-https://i0005.clarodrive.com/s/fce686PspdZ6DHM/download/The%20Simpsons%20-%20s02e05%20-%207F05%20Homero%20el%20animador.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="06" description="Bart y Lisa compiten en golf mientras Homer y Marge se involucran en la rivalidad.",Los Simpson S02E06 - La sociedad de los golfistas muertos
-https://i0005.clarodrive.com/s/LGLTdZPacjXCryy/download/The%20Simpsons%20-%20s02e06%20-%207F08%20La%20sociedad%20de%20los%20golfistas%20muertos.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="07" description="Una pelea familiar estalla cuando Bart arruina accidentalmente la decoración de Acción de Gracias.",Los Simpson S02E07 - Bart contra el día de gracias
-https://i0005.clarodrive.com/s/NLzgcecNKyfF2BT/download/The%20Simpsons%20-%20s02e07%20-%207F07%20Bart%20contra%20el%20d%C3%ADa%20de%20gracias.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="08" description="Bart queda fascinado por un temerario y decide realizar un salto peligroso por su cuenta.",Los Simpson S02E08 - Bart, el temerario
-https://i0005.clarodrive.com/s/bxMZ9MkLr236FDT/download/The%20Simpsons%20-%20s02e08%20-%207F06%20Bart,%20el%20temerario.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="09" description="Marge se preocupa por la violencia de Tomy y Daly e intenta cambiar el programa.",Los Simpson S02E09 - Tomy, Daly y Marge
-https://i0005.clarodrive.com/s/LgpSCxFXmfYBK8T/download/The%20Simpsons%20-%20s02e09%20-%207F09%20Tomy,%20Daly%20y%20Marge.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="10" description="Bart resulta herido en un accidente y la familia se enfrenta a una disputa con el señor Burns.",Los Simpson S02E10 - Bart es atropellado
-https://i0005.clarodrive.com/s/4s2CFfEGp8JQe5c/download/The%20Simpsons%20-%20s02e10%20-%207F10%20Bart%20es%20atropellado.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="11" description="Homer recibe noticias inquietantes sobre su salud y reconsidera cómo vive su vida.",Los Simpson S02E11 - Aviso de muerte
-https://i0005.clarodrive.com/s/2PHwWrZbLNSMwco/download/The%20Simpsons%20-%20s02e11%20-%207F11%20Aviso%20de%20muerte.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="12" description="Homer y Marge recuerdan sus primeros años juntos y cómo cambió su relación.",Los Simpson S02E12 - Los años que vivimos
-https://i0005.clarodrive.com/s/i3sKsZRHpqwifam/download/The%20Simpsons%20-%20s02e12%20-%207F12%20Los%20a%C3%B1os%20que%20vivimos.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="13" description="Bart se ve envuelto en un problema de honestidad que pone a prueba sus decisiones.",Los Simpson S02E13 - No robarás
-https://i0005.clarodrive.com/s/gMaaLM666oRYRW8/download/The%20Simpsons%20-%20s02e13%20-%207F13%20No%20robar%C3%A1s.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="14" description="La familia se enfrenta a una aventura ferroviaria con consecuencias inesperadas.",Los Simpson S02E14 - El último tren
-https://i0005.clarodrive.com/s/2pfoKZ6WodaNg2q/download/The%20Simpsons%20-%20s02e14%20-%207F15%20El%20%C3%BAltimo%20tren.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="15" description="Homer conoce a un hombre que podría ser su medio hermano y descubre una oportunidad inesperada.",Los Simpson S02E15 - Dónde estás, hermano mío
-https://i0005.clarodrive.com/s/XqK9E8Xqy7QNeHF/download/The%20Simpsons%20-%20s02e15%20-%207F16%20D%C3%B3nde%20est%C3%A1s%20hermano%20m%C3%ADo.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="16" description="El perro de la familia causa problemas y Bart intenta ayudarlo a superar sus dificultades.",Los Simpson S02E16 - El perro de Bart reprueba
-https://i0005.clarodrive.com/s/fBDcW5CPyStGpXJ/download/The%20Simpsons%20-%20s02e16%20-%207F14%20El%20perro%20de%20Bart%20reprueba.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="17" description="Homer recuerda un período de su vida y se enfrenta a cambios en el trabajo y en casa.",Los Simpson S02E17 - Nuestros años felices
-https://i0005.clarodrive.com/s/8MJZSAEs5PQrHW5/download/The%20Simpsons%20-%20s02e17%20-%207F17%20Nuestros%20a%C3%B1os%20felices.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="18" description="Lisa conoce a un artista que la inspira y descubre una nueva forma de expresarse.",Los Simpson S02E18 - Pinceles con alma
-https://i0005.clarodrive.com/s/NK9GEeFx8Ti3pj9/download/The%20Simpsons%20-%20s02e18%20-%207F18%20Pinceles%20con%20alma.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="19" description="Lisa admira a un profesor sustituto que despierta su interés por la música y el aprendizaje.",Los Simpson S02E19 - El sustituto de Lisa
-https://i0005.clarodrive.com/s/ZpejxWPTrKTEJRB/download/The%20Simpsons%20-%20s02e19%20-%207F19%20El%20sustituto%20de%20Lisa.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="20" description="Homer y Marge asisten a un retiro para parejas mientras Bart organiza una travesura en casa.",Los Simpson S02E20 - La guerra de los Simpson
-https://i0005.clarodrive.com/s/Gene5FmjzeXSLqy/download/The%20Simpsons%20-%20s02e20%20-%207F20%20La%20guerra%20de%20los%20Simpson.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="21" description="Bart, Milhouse y Martin unen sus ahorros para comprar un valioso cómic de colección.",Los Simpson S02E21 - Tres hombres y una historieta
-https://i0005.clarodrive.com/s/FDeiyjBFMS6CLoz/download/The%20Simpsons%20-%20s02e21%20-%207F21%20Tres%20hombres%20y%20una%20historieta.avi
-
-#EXTINF:-1 type="series" group-title="Animación" tvg-name="Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg" season="2" episode="22" description="Bart conoce a una chica nueva y se esfuerza por impresionarla.",Los Simpson S02E22 - Sangre nueva
-https://i0005.clarodrive.com/s/g7cfT7rSa8jJj2Q/download/The%20Simpsons%20-%20s02e22%20-%207F22%20Sangre%20nueva.avi
-
+#EXTINF:-1 type="series" group-title="Católicos" tvg-name="Para Salvarte" tvg-logo="" season="2" episode="26" description="Análisis sobre las teorías científicas de la evolución y la creación divina del ser humano a imagen y semejanza de Dios.",El Origen del Hombre
+https://i0005.clarodrive.com/s/bntjEsDdAHeqKCY/download/S02E26-PARA%20SALVARTE-El%20Origen%20del%20Hombre%20%5BEp.%2026%20T2%5D.mp4
