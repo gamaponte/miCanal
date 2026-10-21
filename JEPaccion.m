@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHcEp4CGmgOhHGVGqDMZUfC_9z7xDnn9HMNj2fuq7yQ&s=10" group-title="Acción",Oppenheimer (2023)
 https://i0005.clarodrive.com/s/xNtQaXdKabjYJqE/download/Oppenheimer.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze Runner: Prueba de Fuego (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugaEcELtcKpaiwwt2eHkuByQ3qsnwNX9O_ASiWWmvjg&s=10" group-title="Acción",Maze Runner: Prueba de Fuego (2015)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="El corredor del laberinto: Prueba de Fuego (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugaEcELtcKpaiwwt2eHkuByQ3qsnwNX9O_ASiWWmvjg&s=10" group-title="Acción",Maze Runner: Prueba de Fuego (2015)
 https://i0005.clarodrive.com/s/cZsiz4HwBZfCqfQ/download/Maze.Runner.The.Scorch.Trials.2015_sub.mp4
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Maze Runner: La cura mortal (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziaJzt-wzdMSYddqMdkDlU4Bj3NC51vQqP6VWajgj2w&s" group-title="Acción",Maze Runner: La cura mortal (2018)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="El corredor del laberinto: La cura mortal (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziaJzt-wzdMSYddqMdkDlU4Bj3NC51vQqP6VWajgj2w&s" group-title="Acción",Maze Runner: La cura mortal (2018)
 https://i0005.clarodrive.com/s/tf7XKJNr9kFDqHK/download/Maze.Runner.The.Death.Cure.2018_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade runner 2049 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbF5b1ur6eQD3OQYOvQzcn8SZnfuTN_a_bwYXKyRsxZA&s=10" group-title="Sci-Fi",Blade runner 2049 (2017)
 https://i0005.clarodrive.com/s/4Gd5dJKbST2btds/download/Blade%20Runner%202049%20%282017%29_dual.mp4
@@ -15,7 +15,7 @@ https://i0005.clarodrive.com/s/FwQ3awiYtzRk6ss/download/Duna2.mp4
 https://i0005.clarodrive.com/s/ttE99Z7sEPPRb2Q/download/Blade%2520Runner%2520Final%2520Cut%2520%25281997%2529.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El abismo negro (1979)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORU-M8jfvMd1VzUjIGiThMYZjMFVPEaWAgOCUMw4BtA&s=10" group-title="Sci-Fi",El abismo negro (1979)
 https://i0005.clarodrive.com/s/9jMGy89LosLJXAs/download/El%20abismo%20negro.avi
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade Runner Black Out 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRnN8LZO9-KHKZjdrL57dIp8klhMR5Zr_EhoX2tCrFA&s=10" group-title="Sci-Fi",Blade Runner Black Out 2022
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Blade Runner: Apagón 2022 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRnN8LZO9-KHKZjdrL57dIp8klhMR5Zr_EhoX2tCrFA&s=10" group-title="Sci-Fi",Blade Runner Black Out 2022
 https://i0005.clarodrive.com/s/Dr42S7RgFez97KF/download/Blade%20Runner%20Black%20Out%202022%20%282017%29_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Ana de las tejas verdes (1985)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvMip_6h6R2KNlyfi9Ykkmqap9c-CrqjboPBE2uBtew&s=10" group-title="Familiar",Ana de las tejas verdes (1985)
 https://i0005.clarodrive.com/s/nL4qZ9E4HtjSP4b/download/Ana%20de%20las%20tejas%20verdes%20capitulo%2001.mp4
