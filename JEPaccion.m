@@ -21,6 +21,8 @@ https://i0005.clarodrive.com/s/Dr42S7RgFez97KF/download/Blade%20Runner%20Black%2
 https://i0005.clarodrive.com/s/nL4qZ9E4HtjSP4b/download/Ana%20de%20las%20tejas%20verdes%20capitulo%2001.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Ana de las Tejas Verdes: la continuación (1987)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0NjQ5ODkyN15BMl5BanBnXkFtZTcwNjY3MDU3Nw@@._V1_FMjpg_UY2250_.jpg" group-title="Familiar",Ana de las Tejas Verdes: la continuación (1987)
 https://i0005.clarodrive.com/s/ttdc2zK8F7nqNC6/download/Ana%20de%20las%20tejas%20verdes%20capitulo%2002.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg" group-title="Familiar" description="Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'.",Gru 4. Mi villano favorito (2024)
+https://i0005.clarodrive.com/s/EwDY3mqbKMSY98p/download/Despicable%204.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Padre Pio (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7sdvvmPcLd7ney331FXGy79Z8brW1FJBo4qcE_oMDQ&s=10" group-title="Católicas",Padre Pio (2022)
 https://i0005.clarodrive.com/s/QqCypmWwYF8nMYn/download/Padre%20P%C3%ADo%20nueva.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Barabbas (1961)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCbHtegNlBjXC213ayZx5z3b1J1J_LW7BsYDZyx2pZw&s=10" group-title="Católicas",Barabbas (1961)
@@ -81,10 +83,49 @@ https://i0005.clarodrive.com/s/ZxswjpNNZmQjHMN/download/El%20Mensaje%20de%20Gara
 https://i0005.clarodrive.com/s/FEAf2F8HsmNNo4J/download/Legion%20of%20Mary%20Founder-Frank%20Duff_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://www.rdm-edition.fr/243084-medium_default/frank-duff-et-la-legion-de-marie-armand-isnard-v98728.jpg" group-title="Documental Religioso",La Legión de María - Los orígenes de un combate espiritual
 https://i0005.clarodrive.com/s/Yaq2Zotyf86cikA/download/La%20Legi%C3%B3n%20de%20Mar%C3%ADa%20-%20Los%20or%C3%ADgenes%20de%20un%20combate%20espiritual_sub.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqfJKiXvWvjkNQFIu3x-mr8DT6ntO8RwvHQYJZnWNQQ&s=10" group-title="Documental Religioso",Carlo Acutis "Estoy Contigo"
+https://i0005.clarodrive.com/s/qFHgWmZ9Wr2t2NY/download/Carlo%20Acutis%20%E2%80%9CEstoy%20Contigo%E2%80%9D.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="EntreLobos (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1dbB6KyCGcNttz3Fip5Zn88IjN1VDGqVL0wfQ8VB6z8atJeaZyLr3YaCG&s=10" group-title="Hechos Reales",EntreLobos (2010)
 https://i0005.clarodrive.com/s/rn5Qfjdx44Mnt4K/download/Entrelobos%20%282010%29.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Frankenstein (1931)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoT96jQPPaJqRKBNNVLMTPjpy-UB0QiF5BuGKjYgYag&s=10" group-title="Clásicas",Frankenstein (1931)
 https://i0005.clarodrive.com/s/2HzPYSDXM23sinn/download/Frankenstein.1931_sub.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="El Fantasma de la Opera (1943)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwYAHWmj1DNiD6ZQ9E-i-wVuk_uL8W354W8hwNDooiQ&s=10" group-title="Clásicas",El Fantasma de la Opera (1943)
 https://i0005.clarodrive.com/s/iz7FHrYempJzztq/download/El%20fantasma%20de%20la%20opera%20%281943%29.mkv
-
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/bFj7XRg5avQDvuvWaag3IttjEAw.jpg" group-title="Marvel",Iron Man (2008)
+https://i0005.clarodrive.com/s/WKCgnYiPwyESnnp/download/Iron.man.2008.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="Marvel",Iron Man 2 (2010)
+https://i0005.clarodrive.com/s/baoLBERcJCTF2eR/download/Iron.man.2.2010.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" group-title="Marvel",Capitán América: El primer vengador (2011)
+https://i0005.clarodrive.com/s/BwCs4xcpTprQsaW/download/Captain.america.the.first.avenger.2011-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="Marvel",Vengadores (2012)
+https://i0005.clarodrive.com/s/43fbEWHH4A7xWpi/download/The.avengers.2012.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",ironman 3 (2012)
+https://i0005.clarodrive.com/s/43fbEWHH4A7xWpi/download/The.avengers.2012.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Thor (2012)
+https://i0005.clarodrive.com/s/43fbEWHH4A7xWpi/download/The.avengers.2012.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Marvel",Capitán América: El Soldado de Invierno (2014)
+https://i0005.clarodrive.com/s/DffnjWMtfySM3Di/download/Captain.america.the.winter.soldier.2014.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg" group-title="Marvel",Guardianes de la Galaxia (2014)
+https://i0005.clarodrive.com/s/GA6XbJn9kCm5w7H/download/Guardians.of.the.galaxy.2014.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/71wSx6MQm8EbMNDi3vVaD8nD9SL.jpg" group-title="Marvel",Vengadores: La era de Ultrón (2015)
+https://i0005.clarodrive.com/s/pr7F6fCtrndmygZ/download/Avengers.Age.of.Ultron.2015.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg" group-title="Marvel",Ant Man (2014)
+https://i0005.clarodrive.com/s/GA6XbJn9kCm5w7H/download/Guardians.of.the.galaxy.2014.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Marvel",Capitán América: Civil War (2016)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Guardianes de la galaxia 2 (2016)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Thor: Ragnarok (2017)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Black Panther (2018)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Vengadores: Infinity War (2018)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Ant-Man y la Avispa (2018)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Capitana Marvel (2019)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="" group-title="Marvel",Vengadores: Endgame (2019)
+https://i0005.clarodrive.com/s/zL5iREiDQY56CnR/download/Captain.america.civil.war.2016.1080P-Dual-Lat.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/snKijRVAXkfl7xj8Tj1QPhRECEp.jpg" group-title="Cómicas",2001: Despega como puedas (2000)
+https://i0005.clarodrive.com/s/mMNMeBTejBy9ztr/download/2001.A.Space.Travesty.2000_sub.mp4
